@@ -9,9 +9,8 @@
 </head>
 <body>
     <header>
-        <nav>
-            <img src="./imagenes/bxs-home.svg" alt="">
-            <a href="index.html">Home</a>
+        <nav class="nav-php">
+            <a href="index.html" class="box"><img src="./imagenes/bxs-home.svg" alt="Home" title="Home"></a>
         </nav>
     </header>
     <form>
